@@ -20,7 +20,7 @@ The bot requires these specific permissions:
 The permission integer for these specific permissions is `10304`.
 
 ### Inviting the bot
-You will need to generate an invite link for the bot. To do this, replace the `XXXXX` with the `Client ID` you saved earlier.
+You will need to generate an invite link for the bot. To do this, replace `XXXXX` with the `Client ID` you saved earlier.
 
     https://discordapp.com/oauth2/authorize?client_id=XXXXX&scope=bot&permissions=10304
     
