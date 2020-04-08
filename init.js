@@ -6,7 +6,7 @@ import logger from './lib/utils/logger.js';
 
 const discordToken = process.env.DISCORD_BOT_TOKEN;
 
-if(!discordToken)
+if(!discordToken || discordToken === 'XXXXX')
     throw new Error('Please set the environment variable `DISCORD_BOT_TOKEN`');
 
 const cryptoEngine = new CryptoEngine();
