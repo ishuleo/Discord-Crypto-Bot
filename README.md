@@ -15,13 +15,12 @@ An easy-to-use, intuitive cryptocurrency price tracking bot for Discord. Built o
 The bot requires these specific permissions:
 - Send Messages
 - Manage Messages
-- Add Reactions
 
-The permission integer for these specific permissions is `10304`.
+The permission integer for these specific permissions is `10240`.
 
 ### Inviting the bot
 You will need to generate an invite link for the bot. To do this, replace `XXXXX` with the `Client ID` you saved earlier.
 
-    https://discordapp.com/oauth2/authorize?client_id=XXXXX&scope=bot&permissions=10304
+    https://discordapp.com/oauth2/authorize?client_id=XXXXX&scope=bot&permissions=10240
     
 You can now send this invite link to any server owners who are interested in running the bot in their server.
