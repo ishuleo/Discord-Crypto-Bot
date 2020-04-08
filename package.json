@@ -7,6 +7,9 @@
   "scripts": {
     "start": "node init.js"
   },
+  "engines": {
+    "node": ">=13.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kondax/Discord-Crypto-Bot.git"

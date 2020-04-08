@@ -1,6 +1,6 @@
 ## Discord Crypto Bot
 
-An easy-to-use, intuitive cryptocurrency price tracking bot for Discord. Built on top of [discord.js](https://github.com/discordjs/discord.js).
+An easy-to-use, intuitive cryptocurrency price tracking bot for Discord. Built on top of [discord.js](https://github.com/discordjs/discord.js). **NodeJS v13.0.0 or greater is required. This will not change as the project is a personal project and I prefer import statements.**
 
 ### Installation
 1. Clone the repository
