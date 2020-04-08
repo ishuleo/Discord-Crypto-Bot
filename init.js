@@ -17,8 +17,6 @@ client.onValidateCryptoCurrency = cryptoCurrency => {
 };
 
 client.onRequestCryptoCurrency = cryptoCurrency => {
-    logger.info(`Request to fetch currency stats for ${ cryptoCurrency }`);
-
     return cryptoEngine.getTokenDetails(cryptoCurrency);
 };
 
