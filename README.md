@@ -23,4 +23,4 @@ You will need to generate an invite link for the bot. To do this, replace `XXXXX
 
     https://discordapp.com/oauth2/authorize?client_id=XXXXX&scope=bot&permissions=10240
     
-You can now send this invite link to any server owners who are interested in running the bot in their server.
+You can now send this invite link to any server owners who are interested in running the bot on their Discord server.
