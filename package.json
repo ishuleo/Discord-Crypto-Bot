@@ -1,6 +1,6 @@
 {
   "name": "discord-crypto-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Barebones cryptocurrency price tracking bot for Discord",
   "main": "init.js",
   "type": "module",
@@ -24,6 +24,7 @@
     "coingecko-api": "^1.0.10",
     "discord.js": "^12.1.1",
     "dotenv": "^8.2.0",
+    "node-binance-api": "^0.12.5",
     "pino": "^6.1.1",
     "pino-pretty": "^4.0.0"
   },
