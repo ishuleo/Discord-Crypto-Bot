@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kondax/Discord-Crypto-Bot.git"
+    "url": "git+https://github.com/tayler-king/Discord-Crypto-Bot.git"
   },
-  "author": "Kondax <me@kondax.io>",
+  "author": "Tayler King <me@kingy.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kondax/Discord-Crypto-Bot/issues"
+    "url": "https://github.com/tayler-king/Discord-Crypto-Bot/issues"
   },
-  "homepage": "https://github.com/Kondax/Discord-Crypto-Bot#readme",
+  "homepage": "https://github.com/tayler-king/Discord-Crypto-Bot#readme",
   "dependencies": {
     "coingecko-api": "^1.0.10",
     "discord.js": "^12.1.1",
